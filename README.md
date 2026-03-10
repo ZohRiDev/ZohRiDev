@@ -1,4 +1,4 @@
-# Привет, я ZohRiDev! 
+# Привет, я ZohRiDev! 👋
 
 ### Начинающий разработчик (16 лет)
 Превращаю свой ноутбук на Ryzen 5 в станцию для кодинга.
@@ -9,12 +9,12 @@
 
 ---
 
-### Стек технологий:
+### 🛠 Стек технологий:
 ![Python](https://img.shields.io)
 ![JavaScript](https://img.shields.io)
 ![Git](https://img.shields.io)
 
 ---
 
-### Моя статистика:
+### 📊 Моя статистика:
 ![ZohRiDev's GitHub stats](https://github-readme-stats.vercel.app)
